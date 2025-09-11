@@ -1,5 +1,5 @@
 <alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
-<identifier>pwp.295.295</identifier>
+<identifier>pwp.296.296</identifier>
 <sender>aiseverbridge</sender>
 <sent>2025-09-11T15:45+07:00</sent>
 <status>Actual</status>
@@ -24,5 +24,6 @@
 </area>
 </info>
 </alert>
+
 
 
