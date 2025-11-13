@@ -7,7 +7,7 @@
   "scope": "Public",
   "info": [
     {
-      "culture": "th-TH",
+      "language": "th-TH",
       "category": "Other",
       "event": "PRA",
       "urgency": "Immediate",
@@ -33,5 +33,6 @@
     }
   ]
 }
+
 
 
