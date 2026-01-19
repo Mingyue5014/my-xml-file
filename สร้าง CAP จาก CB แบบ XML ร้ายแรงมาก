@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
-<identifier>pwp.1000.1000</identifier>
+<identifier>pwp.1001.1001</identifier>
 <sender>nteverbridge</sender>
-<sent>2026-01-19T13:30:00+07:00</sent>
+<sent>2026-01-19T14:30:00+07:00</sent>
 <status>Actual</status>
 <msgType>Alert</msgType>
 <scope>Public</scope>
@@ -13,7 +13,7 @@
 <urgency>Immediate</urgency>
 <severity>Extreme</severity>
 <certainty>Observed</certainty>
-<effective>2026-01-19T13:30:00+07:00</effective>
+<effective>2026-01-19T14:30:00+07:00</effective>
 <expires>2026-01-19T18:30:00+07:00</expires>
 <senderName>A separate group for Raydant to support DDPM.</senderName>
 <headline>ทดสอบระบบการส่งข้อความแจ้งเตือนภัยผ่านโทรศัพท์เคลื่อนที่</headline>
@@ -34,7 +34,7 @@
 <urgency>Immediate</urgency>
 <severity>Extreme</severity>
 <certainty>Observed</certainty>
-<effective>2026-01-19T13:30:00+07:00</effective>
+<effective>2026-01-19T14:30:00+07:00</effective>
 <expires>2026-01-19T18:30:00+07:00</expires>
 <senderName>A separate group for Raydant to support DDPM.</senderName>
 <headline>This is a test message from Department of Disaster Prevention and Mitigation (DDPM).</headline>
@@ -50,6 +50,7 @@
 </info>
 
 </alert>
+
 
 
 
