@@ -9,9 +9,9 @@
 <info>
 <language>th-TH</language>
 <category>Other</category>
-<event>PRA</event>
+<event>PRARR</event>
 <urgency>Immediate</urgency>
-<severity>03</severity>
+<severity>0303</severity>
 <certainty>Observed</certainty>
 <effective>2026-01-22T15:20:00+07:00</effective>
 <expires>2026-01-22T18:30:00+07:00</expires>
@@ -31,9 +31,9 @@
 <info>
 <language>en-US</language>
 <category>Other</category>
-<event>PRA</event>
+<event>PRARR</event>
 <urgency>Immediate</urgency>
-<severity>03</severity>
+<severity>0303</severity>
 <certainty>Observed</certainty>
 <effective>2026-01-22T15:20:00+07:00</effective>
 <expires>2026-01-22T18:30:00+07:00/expires>
