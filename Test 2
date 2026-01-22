@@ -22,7 +22,8 @@
 <resource>
 <resourceDesc></resourceDesc>
 <mimeType>image/tiff</mimeType>
-<size>157286400</size> <uri>https://archive.geospatial.go.th/data/L9_BKK_20260115.tif</uri>
+<size>157286400</size> 
+<uri>https://archive.geospatial.go.th/data/L9_BKK_20260115.tif</uri>
 <derefUri>https://storage.cloud-provider.com/buckets/geo-data/L9_BKK_20260115.tif</derefUri>
 <digest>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest> 
 </resource>
@@ -50,7 +51,8 @@
 <resource>
 <resourceDesc></resourceDesc>
 <mimeType>image/tiff</mimeType>
-<size>157286400</size> <uri>https://archive.geospatial.go.th/data/L9_BKK_20260115.tif</uri>
+<size>157286400</size> 
+<uri>https://archive.geospatial.go.th/data/L9_BKK_20260115.tif</uri>
 <derefUri>https://storage.cloud-provider.com/buckets/geo-data/L9_BKK_20260115.tif</derefUri>
 <digest>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest> 
 </resource>
