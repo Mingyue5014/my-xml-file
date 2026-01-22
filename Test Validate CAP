@@ -7,7 +7,7 @@
 <msgType>Alert</msgType>
 <scope>Public</scope>
 <info>
-<language></language>
+<language>th-TH</language>
 <category>Other</category>
 <event>PRA</event>
 <urgency>Immediate</urgency>
@@ -29,7 +29,7 @@
 </area>
 </info>
 <info>
-<language></language>
+<language>en-EN</language>
 <category>Other</category>
 <event>PRA</event>
 <urgency>Immediate</urgency>
