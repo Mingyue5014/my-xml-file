@@ -20,8 +20,8 @@
 <instruction>ประกาศแจ้งเตือนสถานการณ์ภัยแล้งขั้นวิกฤต และมาตรการบริหารจัดการทรัพยากรน้ำเร่งด่วน 
 เนื่องด้วยสถานการณ์ความแปรปรวนของสภาพภูมิอากาศและปรากฏการณ์เอลนีโญ ส่งผลให้ปริมาณน้ำฝนในรอบปีที่ผ่านมามีค่าเฉลี่ยต่ำกว่าเกณฑ์ปกติอย่างมีนัยสำคัญ ประกอบกับการตรวจสอบระดับน้ำในเขื่อนหลักและแหล่งกักเก็บน้ำธรรมชาติ พบว่าปริมาณน้ำต้นทุนลดระดับลงสู่เกณฑ์เฝ้าระวังขั้นสูงสุด ซึ่งหากไม่มีการบริหารจัดการที่มีประสิทธิภาพ อาจส่งผลกระทบโดยตรงต่อระบบนิเวศ การเกษตร และความมั่นคงด้านน้ำอุปโภคบริโภคตลอดช่วงฤดูแล้งที่ยาวนานกว่าปกติในปีนี้เพื่อเป็นการป้องกันและบรรเทาผลกระทบจากการขาดแคลนน้ำที่อาจเกิดขึ้นในวงกว้าง จึงขอประกาศแจ้งเตือนภัยแล้งและกำหนดมาตรการขอความร่วมมือจากทุกภาคส่วน ดังรายละเอียดต่อไปนี้: ภาคครัวเรือนและประชาชนทั่วไป: ขอให้ตระหนักถึงคุณค่าของทรัพยากรน้ำสูงสุด โดยปรับเปลี่ยนพฤติกรรมดังนี้ตรวจสอบระบบท่อประปาและอุปกรณ์ใช้น้ำภายในอาคารบ้านเรือน หากพบจุดรั่วซึมแม้เพียงเล็กน้อยต้องดำเนินการซ่อมแซมทันที</instruction>
 <resource>
-<resourceDesc></resourceDesc>
-<mimeType>image/tiff</mimeType>
+<resourceDesc>รายงานสรุปการวิเคราะห์ผังเมืองประจำปี 2025</resourceDesc>
+<mimeType></mimeType>
 <size>157286400</size> 
 <uri>https://archive.geospatial.go.th/data/L9_BKK_20260115.tif</uri>
 <derefUri>https://storage.cloud-provider.com/buckets/geo-data/L9_BKK_20260115.tif</derefUri>
@@ -49,8 +49,8 @@
 <headline>This is a test message from Department of Disaster Prevention and Mitigation (DDPM).</headline>
 <instruction></instruction>
 <resource>
-<resourceDesc></resourceDesc>
-<mimeType>image/tiff</mimeType>
+<resourceDesc>Report-urban-plan-2025</resourceDesc>
+<mimeType></mimeType>
 <size>157286400</size> 
 <uri>https://archive.geospatial.go.th/data/L9_BKK_20260115.tif</uri>
 <derefUri>https://storage.cloud-provider.com/buckets/geo-data/L9_BKK_20260115.tif</derefUri>
