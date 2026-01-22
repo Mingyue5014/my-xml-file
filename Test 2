@@ -11,7 +11,7 @@
 <category>Other</category>
 <event>PRARR</event>
 <urgency>Immediate</urgency>
-<severity>0303</severity>
+<severity>Severee</severity>
 <certainty>Observed</certainty>
 <effective>2026-01-22T15:20:00+07:00</effective>
 <expires>2026-01-22T18:30:00+07:00</expires>
@@ -33,7 +33,7 @@
 <category>Other</category>
 <event>PRARR</event>
 <urgency>Immediate</urgency>
-<severity>0303</severity>
+<severity>Severee</severity>
 <certainty>Observed</certainty>
 <effective>2026-01-22T15:20:00+07:00</effective>
 <expires>2026-01-22T18:30:00+07:00/expires>
