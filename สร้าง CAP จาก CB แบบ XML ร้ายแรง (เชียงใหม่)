@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
-<identifier>pwp.2004.2004</identifier>
+<identifier>pwp.2007.2007</identifier>
 <sender>nteverbridge</sender>
-<sent>2026-01-29T17:00:00+07:00</sent>
+<sent>2026-02-02T11:20:00+07:00</sent>
 <status>Actual</status>
 <msgType>Alert</msgType>
 <scope>Public</scope>
@@ -13,11 +13,11 @@
 <urgency>Immediate</urgency>
 <severity>Severe</severity>
 <certainty>Observed</certainty>
-<effective>2026-01-29T17:00:00+07:00</effective>
-<expires>2026-01-29T18:30:00+07:00</expires>
+<effective>2026-02-02T11:20:00+07:00</effective>
+<expires>2026-01-02T18:30:00+07:00</expires>
 <senderName>A separate group for Raydant to support DDPM.</senderName>
 <headline>ทดสอบระบบการส่งข้อความแจ้งเตือนภัยผ่านโทรศัพท์เคลื่อนที่</headline>
-<instruction>ประกาศแจ้งเตือนสถานการณ์ภัยแล้งขั้นวิกฤต และมาตรการบริหารจัดการทรัพยากรน้ำเร่งด่วน วันที่ 29 มกราคม 2569 เวลา 17.00 น. 
+<instruction>ประกาศแจ้งเตือนสถานการณ์ภัยแล้งขั้นวิกฤต และมาตรการบริหารจัดการทรัพยากรน้ำเร่งด่วน วันที่ 02 กุมภาพันธ์ 2569 เวลา 11.20 น. 
 เนื่องด้วยสถานการณ์ความแปรปรวนของสภาพภูมิอากาศและปรากฏการณ์เอลนีโญ ส่งผลให้ปริมาณน้ำฝนในรอบปีที่ผ่านมามีค่าเฉลี่ยต่ำกว่าเกณฑ์ปกติอย่างมีนัยสำคัญ ประกอบกับการตรวจสอบระดับน้ำในเขื่อนหลักและแหล่งกักเก็บน้ำธรรมชาติ พบว่าปริมาณน้ำต้นทุนลดระดับลงสู่เกณฑ์เฝ้าระวังขั้นสูงสุด ซึ่งหากไม่มีการบริหารจัดการที่มีประสิทธิภาพ อาจส่งผลกระทบโดยตรงต่อระบบนิเวศ การเกษตร และความมั่นคงด้านน้ำอุปโภคบริโภคตลอดช่วงฤดูแล้งที่ยาวนานกว่าปกติในปีนี้เพื่อเป็นการป้องกันและบรรเทาผลกระทบจากการขาดแคลนน้ำที่อาจเกิดขึ้นในวงกว้าง จึงขอประกาศแจ้งเตือนภัยแล้งและกำหนดมาตรการขอความร่วมมือจากทุกภาคส่วน ดังรายละเอียดต่อไปนี้: ภาคครัวเรือนและประชาชนทั่วไป: ขอให้ตระหนักถึงคุณค่าของทรัพยากรน้ำสูงสุด โดยปรับเปลี่ยนพฤติกรรมดังนี้ตรวจสอบระบบท่อประปาและอุปกรณ์ใช้น้ำภายในอาคารบ้านเรือน หากพบจุดรั่วซึมแม้เพียงเล็กน้อยต้องดำเนินการซ่อมแซมทันที</instruction>
 <area>
 <areaDesc>เชียงใหม่</areaDesc>
@@ -35,8 +35,8 @@
 <urgency>Immediate</urgency>
 <severity>Severe</severity>
 <certainty>Observed</certainty>
-<effective>2026-01-29T17:00:00+07:00</effective>
-<expires>2026-01-29T18:30:00+07:00</expires>
+<effective>2026-02-02T11:20:00+07:00</effective>
+<expires>2026-01-02T18:30:00+07:00</expires>
 <senderName>A separate group for Raydant to support DDPM.</senderName>
 <headline>This is a test message from Department of Disaster Prevention and Mitigation (DDPM).</headline>
 <instruction></instruction>
